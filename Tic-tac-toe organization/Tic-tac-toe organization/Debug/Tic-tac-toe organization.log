@@ -1,0 +1,19 @@
+﻿Build started 2014/1/19 19:50:16.
+     1>Project "E:\法方课\C++miniproject\Tic-tac-toe organization\Tic-tac-toe organization\Tic-tac-toe organization\Tic-tac-toe organization.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\法方课\VS2013程序\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt game.cpp
+         game.cpp
+       Link:
+         E:\法方课\VS2013程序\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\法方课\C++miniproject\Tic-tac-toe organization\Tic-tac-toe organization\Debug\Tic-tac-toe organization.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\法方课\C++miniproject\Tic-tac-toe organization\Tic-tac-toe organization\Debug\Tic-tac-toe organization.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\法方课\C++miniproject\Tic-tac-toe organization\Tic-tac-toe organization\Debug\Tic-tac-toe organization.lib" /MACHINE:X86 Debug\computerplayer.obj
+         Debug\game.obj
+         Debug\humanplayer.obj
+         Debug\main.obj
+         Debug\pawn.obj
+         Debug\player.obj
+         Debug\table.obj
+         Tic-tac-toe organization.vcxproj -> E:\法方课\C++miniproject\Tic-tac-toe organization\Tic-tac-toe organization\Debug\Tic-tac-toe organization.exe
+     1>Done Building Project "E:\法方课\C++miniproject\Tic-tac-toe organization\Tic-tac-toe organization\Tic-tac-toe organization\Tic-tac-toe organization.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.48
